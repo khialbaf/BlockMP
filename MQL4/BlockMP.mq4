@@ -35,7 +35,6 @@ int OnCalculate(const int rates_total,const int prev_calculated,const datetime &
       if(s>=rates_total)
          s=rates_total-1;
    }
-   Print(s," -> ",rates_total);
    
    for(int i=s;i>=0;i--){
       double h=high[i],l=low[i];
@@ -47,8 +46,6 @@ int OnCalculate(const int rates_total,const int prev_calculated,const datetime &
          if(l>close[i+1])
             l=close[i+1];
       }
-      
-      Print(time[i],"(",i,") -> close: ",close[i]," ,high: ",block.high," ,low: ",block.low);
       if( close[i]>block.high || close[i]<block.low ){
          setObjBlock((int)block.time,block.time,block.high,time[i],block.low,block.clr);
          if(i>0)
