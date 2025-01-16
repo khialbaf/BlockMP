@@ -14,41 +14,7 @@ Personally, I don't use this method, but I hope this indicator will be helpful f
 |-|-|-|-|-|
 |MQL5|MetaTrader5|1.00|[Download](https://github.com/mjst219/BlockMP/releases/download/v1.00/BlockMP.ex5)|[View](https://github.com/mjst219/BlockMP/blob/main/MQL5/BlockMP.mq5)|
 |MQL4|MetaTrader4|1.00|[Download](https://github.com/mjst219/BlockMP/releases/download/v1.00/BlockMP.ex4)|[View](https://github.com/mjst219/BlockMP/blob/main/MQL4/BlockMP.mq4)|
-|Pine Script|TradingView|1.00|Soon|Soon|
-
-<table>
-	<thead>
-		<tr>
-			<th>Programming Language</th>
-			<th>Platform</th>
-			<th>Version</th>
-			<th>Download Link</th>
-			<th>Source Code</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>MQL5</td>
-			<td>MetaTrader5</td>
-			<td>1.00</td>
-			<td><a href="https://github.com/mjst219/BlockMP/releases/download/v1.00/BlockMP.ex5">Download</a></td>
-			<td><a href="https://github.com/mjst219/BlockMP/blob/main/MQL5/BlockMP.mq5">View</a></td>
-		</tr>
-		<tr>
-			<td>MQL4</td>
-			<td>MetaTrader4</td>
-			<td>1.00</td>
-			<td><a href="https://github.com/mjst219/BlockMP/releases/download/v1.00/BlockMP.ex4">Download</a></td>
-			<td><a href="https://github.com/mjst219/BlockMP/blob/main/MQL4/BlockMP.mq4">View</a></td>
-		</tr>
-		<tr>
-			<td>MQL4</td>
-			<td>MetaTrader4</td>
-			<td>1.00</td>
-			<td colspan="2" align="center"><a href="https://github.com/mjst219/BlockMP/edit/main/README.md#pinescript-code">Download</a></td>
-		</tr>
-	</tbody>
-</table>
+|Pine Script|TradingView|1.00|[View](#pinescript-code)|[View](#pinescript-code)|
 
 
 ## PineScript Code
